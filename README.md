@@ -1,6 +1,5 @@
 ## Hi there 👋
 
 ### :zap: Actividad reciente
-<!-- Start session-->
-
-<!-- End session-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
